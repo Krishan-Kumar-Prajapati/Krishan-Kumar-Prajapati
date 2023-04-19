@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Java Backend Developer with a passion for diving deep into problems to uncover solutions.</h3>
 
 - 🔭 I’m currently working on **Something Innovative and Exciting!**
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
 
 - 👨‍💻 Know more about me at **https://krishan-kumar-prajapati.github.io/**
 
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC HIBERNATE, MAVEN, SPRINGBOOT & CLI and Frontend Projects : HTML, CSS & JavaScript**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
 
 - 🤝 I’m looking for help with **Web Applications Based on Java Language**
 
