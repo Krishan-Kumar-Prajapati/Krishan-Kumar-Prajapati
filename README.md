@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 
 - 🤝 I’m looking for help with **Web Applications Based on Java Language**
+- ⚡ Fun fact **Hold Bachelor of Technology in Civil Engineering from IIT Gandhinagar**
 
 <br/>
 
