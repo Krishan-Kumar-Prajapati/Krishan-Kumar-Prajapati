@@ -95,13 +95,13 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" height="165em" src="https://github-profile-trophy.vercel.app/?username=Krishan-Kumar-Prajapati&column=7&bg_color=FFFFFF&color=3081ed&line=fb8c00&point=e6c7c7&area=true&hide_border=true" />
+    <img align="center" height="165em" src="https://github-profile-trophy.vercel.app/?username=Krishan-Kumar-Prajapati" />
   </a>
 </p>
 <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
+<br/> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
 <br/>
