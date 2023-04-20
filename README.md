@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Something Innovative and Exciting!**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
 
-- 👨‍💻 Know more about me at **krishan-kumar-prajapati.github.io**
+- 👨‍💻 Know more about me at **[krishan-kumar-prajapati.github.io](https://krishan-kumar-prajapati.github.io/)**
 
 - 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate | SpringBoot**
 
