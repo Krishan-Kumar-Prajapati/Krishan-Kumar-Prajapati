@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 
 </p>
 
-
+<br/>
 
 <p align="center">
  <a  href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Krishan-Kumar-Prajapati&column=7&bg_color=FFFFFF&color=3081ed&line=fb8c00&point=e6c7c7&area=true&hide_border=true" />
+    <img align="center" height="165em" src="https://github-profile-trophy.vercel.app/?username=Krishan-Kumar-Prajapati&column=7&bg_color=FFFFFF&color=3081ed&line=fb8c00&point=e6c7c7&area=true&hide_border=true" />
   </a>
 </p>
 
