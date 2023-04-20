@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
-<h1 align="center">Hi 👋, I'm Krishan Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Krishan Kumar</h1> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Krishan+Kumar;Aspiring+Java+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p> 
 <h3 align="center">A Java Backend Developer with a passion for diving deep into problems to uncover solutions.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
