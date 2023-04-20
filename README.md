@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 
 </p>
-<p align="center"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=FFFFFF&color=5094f0&line=9e4c98&point=e6c7c7&area=true&hide_border=true" alt="Krishan-Kumar-Prajapati" />
+<p align="center"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=FFFFFF&color=3081ed&line=9e4c98&point=e6c7c7&area=true&hide_border=true" alt="Krishan-Kumar-Prajapati" />
 
 
 
