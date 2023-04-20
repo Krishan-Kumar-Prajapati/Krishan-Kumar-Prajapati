@@ -80,6 +80,8 @@ Here are some ideas to get you started:
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Krishan-Kumar-Prajapati&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-
+<p align="right">
+  <img src="https://activity-graph.herokuapp.com/api?username=Krishan-Kumar-Prajapati&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
 
 
