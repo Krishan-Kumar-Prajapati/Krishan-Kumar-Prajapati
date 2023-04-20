@@ -38,9 +38,37 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Web Applications Based on Java Language**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br/>
+
+
+<h3 align="center">My Tech Stack</h3>
+<br/>
+
+
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,bootstrap,tailwindcss&perline=10" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<br/>
+<h3 align="center">Tools & Softwares</h3>
+
+<br/>
+
+
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify&perline=5" />
+  </a>
+</p>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/Krishan_iitgn" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="krishankumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/Krishan-Kumar-Prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishankumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishan-iitgn/" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="krishankumar" height="30" width="40" /></a>
+  
+</p>
+
+<br/>
