@@ -105,6 +105,9 @@ Here are some ideas to get you started:
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
 
+<br/>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
