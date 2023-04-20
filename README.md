@@ -81,7 +81,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="right">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Krishan-Kumar-Prajapati&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
-</p>
+
 
