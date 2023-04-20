@@ -85,6 +85,17 @@ Here are some ideas to get you started:
 
 
 </p>
+![Krishan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
+
+<p align="center">
+  <a  href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Krishan-Kumar-Prajapati&column=7&theme=onedark" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
 
 
 
