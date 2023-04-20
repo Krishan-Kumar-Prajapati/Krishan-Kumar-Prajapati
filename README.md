@@ -80,6 +80,10 @@ Here are some ideas to get you started:
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Krishan-Kumar-Prajapati&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Kumar-Prajapati&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishan-Kumar-Prajapati&layout=compact" />
+</p>
 
 
