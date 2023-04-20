@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Krishan-Kumar-Prajapati&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
-
+<br/>
 <p align="center"><img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishan-Kumar-Prajapati&layout=compact&hide_border=true" alt="Krishan-Kumar-Prajapati" />
 
 
-
+<br/>
 </p>
 <p align="center"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=FFFFFF&color=3081ed&line=fb8c00&point=e6c7c7&area=true&hide_border=true" alt="Krishan-Kumar-Prajapati" />
 
@@ -102,6 +102,6 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
-
+<br/>
 
 
