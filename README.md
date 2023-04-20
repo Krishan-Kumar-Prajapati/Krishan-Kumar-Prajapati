@@ -85,7 +85,12 @@ Here are some ideas to get you started:
 
 
 </p>
-![Krishan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true)
+<p align="center"><img align="center" height="165em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Krishan-Kumar-Prajapati&bg_color=000000&color=9e4c98&line=9e4c98&point=e6c7c7&area=true&hide_border=true" alt="Krishan-Kumar-Prajapati" />
+
+
+
+</p>
+
 
 <p align="center">
   <a  href="https://github.com/ryo-ma/github-profile-trophy">
