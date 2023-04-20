@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+
 <h1 align="center">Hi 👋, I'm Krishan Kumar</h1>
 <h3 align="center">A Java Backend Developer with a passion for diving deep into problems to uncover solutions.</h3>
+
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 - 🔭 I’m currently working on **Something Innovative and Exciting!**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
