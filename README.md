@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/Krishan_iitgn" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="krishankumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Krishan-Kumar-Prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishankumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/krishan-iitgn/" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="krishankumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/Krishan-Kumar-Prajapati/" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="krishankumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishan-iitgn/" target="blank"><img align="center" src="https://github.com/Krishan-Kumar-Prajapati/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="krishankumar" height="30" width="40" /></a>
   
 </p>
 
