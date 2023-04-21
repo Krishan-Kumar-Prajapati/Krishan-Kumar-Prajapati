@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
+<br/>
+
 - 🔭 I’m currently working on **Something Innovative and Exciting!**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
 
@@ -104,8 +108,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
-
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishan-Kumar-Prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="Krishan-Kumar-Prajapati" /> </p>
+ -->
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000"> </p>
