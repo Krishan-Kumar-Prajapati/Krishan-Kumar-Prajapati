@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,react,express,mongodb,nodejs,java,mysql,js,html,bootstrap,tailwindcss&perline=10" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,express,mongodb,nodejs,java,js,html,bootstrap,tailwindcss&perline=10" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,git,github,vscode,netlify&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify&perline=5" />
   </a>
 </p>
 
