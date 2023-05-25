@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I'm+Krishan+Kumar;Aspiring+Full+Stack+Web+Developer+From+India&font=Fira%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p> 
-<h3 align="center">A Java Backend Developer with a passion for diving deep into problems to uncover solutions.</h3>
+<h3 align="center">A Full Stack Web Developer with a passion for diving deep into problems to uncover solutions.</h3>
 
 
 
@@ -32,20 +32,20 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 - 🔭 I’m currently working on **Something Innovative and Exciting!**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1oV04T0DoSnoU4WcpDOSwI7SAs6YbmfZG/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1GxSFP3cbJ_VYuC6aXM2ZtG_YRpCBhUDJ/view)
 
 - 👨‍💻 Know more about me at **[krishan-kumar-prajapati.github.io](https://krishan-kumar-prajapati.github.io/)**
 
-- 🌱 I’m currently learning **Java | SQL | JDBC | Maven | Hibernate | SpringBoot**
+- 🌱 I’m currently learning **MongoDB | Express | React | NodeJs**
 
 - 📫 How to reach me **krishan.kumar@alumni.iitgn.ac.in**
 
-- 💬 Ask me anything about **Java Backend Development**
+- 💬 Ask me anything about **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Backend Projects : JAVA, SQL, JDBC HIBERNATE, MAVEN, SPRINGBOOT & CLI and Frontend Projects : HTML, CSS & JavaScript**
+- 👯 I’m looking to collaborate on **Backend Projects : MongoDB, Express and NodeJs and Frontend Projects : HTML, CSS , React & JavaScript**
 
 
-- 🤝 I’m looking for help with **Web Applications Based on Java Language**
+- 🤝 I’m looking for help with **Web Applications Based on JavaScript Language**
 - ⚡ Fun fact **Hold B.Tech. in Civil Engineering from IIT Gandhinagar**
 
 <br/>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,aws,js,html,bootstrap,tailwindcss&perline=10" />
+    <img src="https://skillicons.dev/icons?i=javascript,react,express,mongodb,nodejs,java,mysql,js,html,bootstrap,tailwindcss&perline=10" />
   </a>
 </p>
 
